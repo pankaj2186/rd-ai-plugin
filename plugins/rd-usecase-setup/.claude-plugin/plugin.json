@@ -26,13 +26,17 @@
       "type": "http",
       "url": "https://3635370-rdmcp-stage.adobeioruntime.net/api/v1/web/rd-mcp/mcp-server"
     },
-    "Adobe Target MCP": {
+    "adobe-target-mcp": {
       "type": "http",
       "url": "https://targetmcp.adobe.io/mcp"
     },
-    "Adobe Experience Manager": {
+    "aem-content-prod": {
       "type": "http",
       "url": "https://mcp.adobeaemcloud.com/adobe/mcp/content"
+    },
+    "adobe-experience-manager": {
+      "type": "http",
+      "url": "https://mcp.adobeaemcloud.com/adobe/mcp/aem"
     }
   },
   "keywords": [
